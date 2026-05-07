@@ -1,0 +1,5 @@
+JSON is similar to a JS object .
+Every property and values must use double quotes and JSON doesnt support single qoutes.
+JSON has less features than a JS object.
+JSON doesnt support functions like a JS object.
+A js syntax only is understood in just JS but JSON is universally understood (in any language).
